@@ -31,3 +31,6 @@ This is only a temporary limitation, which will be resolved in the final version
 
 Live JSFiddle Example:
 http://jsfiddle.net/markmsmith/MBSpX/
+
+Demo video:
+https://github.com/RallyHackathon/HistoricalCardBoardApp/blob/master/KanbanTimeMachine.swf?raw=true
